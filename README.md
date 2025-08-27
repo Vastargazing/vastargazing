@@ -19,13 +19,14 @@
 ```
 ![Rap Analyzer Dashboard](https://github.com/user-attachments/assets/414ff89c-db9a-4712-a44f-b805702e6459)
 
-### 🛠️ **Technical Architecture:**
-- **Data Pipeline:** Python 3.13 + Pydantic, async processing, rate limiting
-- **AI Integration:** Ollama (local) + Groq + Google AI Studio (cloud), hybrid deployment
-- **Models:** Groq API for explicit content, Gemma 27B via Google AI Studio for general tasks
-- **APIs:** Genius, Spotify Web API with structured metadata
-- **Storage:** SQLite production database, structured JSON exports  
-- **Interface:** CLI tool + system monitoring + error handling
+ ### 🛠️ **Technical Architecture:**
+- **Data Pipeline:** Python 3.13 + Pydantic validation, async processing, intelligent rate limiting
+- **AI Integration:** Multi-provider architecture - Gemma 3 27B (production), Ollama (local dev), LangChain framework
+- **ML Models:** Google Gemma 27B via Google AI Studio API (89% sentiment accuracy), planning Groq + GPT-4o migration
+- **APIs:** Genius lyrics + Spotify Web API with OAuth 2.0, structured metadata enrichment
+- **Storage:** Production SQLite database (200MB+), Pydantic-validated JSON exports, automated schema management
+- **Interface:** Full CLI tool + system monitoring + error handling + progress tracking
+- **DevOps:** Structured logging, API quota management, graceful degradation, batch processing optimization
 
 ### 🔥 **Current Challenges:**
 - Smart model routing: Groq for explicit lyrics, Gemma for general analysis
