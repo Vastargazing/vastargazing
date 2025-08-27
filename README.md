@@ -2,7 +2,7 @@
 
 ### 👋 Hi! I'm learning AI Engineering through hands-on projects
 
-**Creative background meets AI:** 10+ years in creative arts (photography, painting, video), 6 years music production, and 1 year deep into rap music - writing beats and lyrics. This artistic foundation drives my passion for **Cultural AI Analysis**.
+**Creative background meets AI:** 10+ years living a creative life — photography, painting, video — with the past 6 years focused on music production, and the last year diving into rap music (beats and lyrics).
 
 ---
 
@@ -92,15 +92,27 @@
 **Short-term (3 months):**
 - 🚀 Deploy rap analyzer to production with monitoring
 - 📝 Write technical blog posts about AI engineering learnings
-- 🤝 Contribute to 2-3 open source ML projects
+- 🤝 Collaborate with open-source projects and small startup teams
 
-**Long-term (1-2 years):**
-- 💼 Land ML Engineer role in US tech company
-- 🎯 Become recognized voice in Cultural AI Analysis
-- 🌍 Build AI systems that understand global music trends
+**Long-term (1–2 years):**
+
+ - 🚀 Work with startups and small teams to create impactful AI projects
+ - 🌍 Stay remote & global — building cultural AI systems without borders
+ - 🔥 Focus on growth, creativity, and shipping real things over climbing corporate ladders
 
 ---
 
-**Contact:** vebohr@gmail.com | Telegram: @vastargazing 
+**About me**
+*"I live simply and don’t chase money — I already found my wealth within.
+I don’t live in the future, I live in the present.
+My path is about building AI systems that serve people, spark growth, and push culture forward.
+More than a career, I see this as my way of contributing to humanity."*
 
-*"Building the future of AI through hands-on engineering and cultural understanding"*
+## 🌐 Connect
+- 📧 Email: vebohr@gmail.com  
+- 💬 Telegram: [@vastargazing](https://t.me/vastargazing)  
+- 📸 Instagram: [instagram.com/yourhandle](https://instagram.com/yourhandle)  
+- 🌍 Facebook: [facebook.com/yourhandle](https://facebook.com/yourhandle)  
+- 🎨 Behance: [behance.net/yourhandle](https://behance.net/yourhandle) — photography & visual arts
+
+
