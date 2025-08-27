@@ -1,4 +1,4 @@
-# 🤖 AI Engineer | ML Pipeline Developer
+# 🤖 AI Engineer in Training | Cultural ML Builder
 
 ### 👋 Hi! I'm learning AI Engineering through hands-on projects
 
@@ -8,7 +8,7 @@
 
 ## 🎯 Featured Project: [Rap Lyrics Cultural Analyzer]([your-repo-link](https://github.com/Vastargazing/rap-scraper-project))
 
-> Production-ready ML pipeline analyzing hip-hop culture trends through AI
+> A prototype ML pipeline for decoding hip-hop culture trends with AI, built from scratch.
 
 ### 📊 **Impact Metrics:**
 ```
@@ -21,7 +21,7 @@
 
 ### 🛠️ **Technical Architecture:**
 - **Data Pipeline:** Python 3.13 + Pydantic, async processing, rate limiting
-- **AI Integration:** Ollama (local) + Groq (cloud), hybrid deployment strategy
+- **AI Integration:** Ollama (local) + Claude (cloud), hybrid deployment strategy
 - **Models:** Groq API for explicit content analysis, Gemma 27B remote for general tasks
 - **APIs:** Genius, Spotify Web API with structured metadata
 - **Storage:** SQLite production database, structured JSON exports  
@@ -51,18 +51,19 @@
 ## 🎨 **Why My Background Matters**
 
 **Creative Arts + Technical Skills = Unique Perspective:**
+
 - 🎵 **Music Production (6 years)** → Understanding cultural nuances in data
 - 🎨 **Visual Arts (10+ years)** → Pattern recognition and creative problem solving  
 - 🎤 **Rap Writing (1 year)** → Domain expertise in the data I'm analyzing
-- 🤖 **AI Partnership** → Using Claude Code for 10x development speed
+- 🤖 **AI Partnership** → Using AI to learn and code faster, boosting my growth as a beginner
 
 ---
 
 ## 📚 **Focus Areas & Interests**
 
-- 🎶 **Cultural AI Analysis** - ML systems that understand music trends and cultural patterns
+- 🎶 **Cultural AI** - Building ML that captures the pulse of music and culture, learning with every step
 - 🔧 **Production ML Systems** - from prototype to scalable, monitored production  
-- 📊 **Data Pipeline Engineering** - robust ETL processes with real-world data
+- 📊 **Data Pipelines** - Crafting reliable flows to fuel AI, driven by my love for discovery
 - 🚀 **AI-Accelerated Development** - leveraging Claude Code + hybrid AI deployment (local/cloud)
 - 🎨 **Creative AI Applications** - bridging artistic intuition with cost-efficient ML systems
 
@@ -70,7 +71,7 @@
 
 ## 🤝 **Open to Collaborations & Learning**
 
-**Looking for hands-on experience!** I'm eager to contribute to open-source projects and collaborate on AI/ML initiatives in exchange for mentorship and real-world experience.
+**I’m all in for real-world experience!** As a beginner, I’m eager to contribute to open-source and small startup projects for free in exchange for mentorship and hands-on learning.
 
 ### **What I bring:**
 - ✅ Production project experience (not just tutorials)
@@ -79,10 +80,10 @@
 - ✅ Growth mindset + intensive learning pace
 
 ### **What I'm seeking:**
-- 🎯 Data pipeline projects
+- 🎯 Data pipeline projects (ETL, API integration, scraping)
 - 🤖 ML model integration challenges  
 - 🎵 Music/cultural AI applications
-- 📈 Production ML system development
+- 📈 MLOps challenges (e.g., deploying models, monitoring)
 - 🧠 Mentorship from experienced ML engineers
 
 ---
@@ -92,21 +93,18 @@
 **Short-term (3 months):**
 - 🚀 Deploy rap analyzer to production with monitoring
 - 📝 Write technical blog posts about AI engineering learnings
-- 🤝 Collaborate with open-source projects and small startup teams
+- 🤝 Contribute to open-source or startup projects (e.g., data pipelines, model integration) for free to gain experience.
 
 **Long-term (1–2 years):**
 
- - 🚀 Work with startups and small teams to create impactful AI projects
- - 🌍 Stay remote & global — building cultural AI systems without borders
+ - 🚀 Build AI projects with startups that spark cultural growth
+ - 🌍 Stay remote, learning globally to create AI without borders
  - 🔥 Focus on growth, creativity, and shipping real things over climbing corporate ladders
 
 ---
 
 **About me**
-*"I live simply and don’t chase money — I already found my wealth within.
-I don’t live in the future, I live in the present.
-My path is about building AI systems that serve people, spark growth, and push culture forward.
-More than a career, I see this as my way of contributing to humanity."*
+*"I’m a beginner AI engineer living for knowledge and growth. With 10+ years in art and music, I see AI as a canvas to amplify culture and human stories. My Rap Lyrics Analyzer is my first step—built from scratch to learn and contribute. For me, learning is a lifestyle, and every project is a chance to grow and give back to the world."*
 
 ## 🌐 Connect
 - 📧 Email: vebohr@gmail.com  
