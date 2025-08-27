@@ -21,8 +21,8 @@
 
 ### 🛠️ **Technical Architecture:**
 - **Data Pipeline:** Python 3.13 + Pydantic, async processing, rate limiting
-- **AI Integration:** Ollama (local) + Claude (cloud), hybrid deployment strategy
-- **Models:** Groq API for explicit content analysis, Gemma 27B remote for general tasks
+- **AI Integration:** Ollama (local) + Groq + Google AI Studio (cloud), hybrid deployment
+- **Models:** Groq API for explicit content, Gemma 27B via Google AI Studio for general tasks
 - **APIs:** Genius, Spotify Web API with structured metadata
 - **Storage:** SQLite production database, structured JSON exports  
 - **Interface:** CLI tool + system monitoring + error handling
@@ -104,13 +104,18 @@
 ---
 
 **About me**
-*"I’m a beginner AI engineer living for knowledge and growth. With 10+ years in art and music, I see AI as a canvas to amplify culture and human stories. My Rap Lyrics Analyzer is my first step—built from scratch to learn and contribute. For me, learning is a lifestyle, and every project is a chance to grow and give back to the world."*
+*"I’m a beginner AI engineer living for knowledge and growth. With 10+ years in art and music, I see AI as a canvas to amplify culture and human stories. My Rap Lyrics Analyzer is my first step—building from scratch to learn and contribute. For me, learning is a lifestyle, and every project is a chance to grow and give back to the world."*
 
 ## 🌐 Connect
 - 📧 Email: vebohr@gmail.com  
 - 💬 Telegram: [@vastargazing](https://t.me/vastargazing)  
-- 📸 Instagram: [instagram.com/yourhandle](https://instagram.com/yourhandle)  
-- 🌍 Facebook: [facebook.com/yourhandle](https://facebook.com/yourhandle)  
-- 🎨 Behance: [behance.net/yourhandle](https://behance.net/yourhandle) — photography & visual arts
+- 📸 Instagram: [instagram.com/vastargazing](https://instagram.com/yourhandle)  
+- 🌍 Facebook: [facebook.com/MentalCash88](https://facebook.com/yourhandle)  
+- 🎨 Behance: [behance.net/stargazphotos](https://behance.net/yourhandle) — photography & visual arts
 
+---
+## 📈 **GitHub Activity**
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vastargazing&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vastargazing&layout=compact&theme=radical)
