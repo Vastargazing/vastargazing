@@ -15,7 +15,9 @@
 📈 52K+ tracks scraped       🎵 314 artists analyzed
 🤖 14K+ AI analyses         📊 200MB+ production dataset
 ⚡ FREE analysis pipeline   🎯 Multi-model AI integration
+
 ```
+![Rap Analyzer Dashboard](https://github.com/user-attachments/assets/414ff89c-db9a-4712-a44f-b805702e6459)
 
 ### 🛠️ **Technical Architecture:**
 - **Data Pipeline:** Python 3.13 + Pydantic, async processing, rate limiting
