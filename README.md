@@ -1,6 +1,6 @@
 # 🤖 ML Platform Engineer | Production AI Systems Builder
 
-### Yo, what's up! 👋 Backend Developer → AI Platform Engineer
+### Yo, what's up! 👋 I'm Backend Developer → AI Platform Engineer
 
 **Production-ready ML systems:** Backend engineering foundation with hands-on AI platform development. Building scalable RAG systems, LLM integrations, and ML infrastructure that serves real users at scale.
 
