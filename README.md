@@ -18,7 +18,7 @@
 🚀 Docker + K8s ready       📈 Grafana monitoring
 ```
 
-<img width="1131" height="821" alt="Image" src="https://github.com/user-attachments/assets/414ff89c-db9a-4712-a44f-b805702e6459" />
+<img width="1031" height="721" alt="Image" src="https://github.com/user-attachments/assets/414ff89c-db9a-4712-a44f-b805702e6459" />
 
 ### 🛠️ **Technical Architecture (ML Platform Stack):**
 - **Backend Framework:** FastAPI + async/await, production-ready REST API with OpenAPI docs
