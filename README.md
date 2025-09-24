@@ -15,7 +15,7 @@
 🐘 PostgreSQL + pgvector     🔄 20 concurrent connections
 🤖 57K+ tracks analyzed      📊 5 AI analyzers integrated
 ⚡ 50-500ms API response     🎯 RAG + semantic search
-🚀 Docker + K8s ready       📈 Grafana monitoring
+🚀 Docker + K8s ready        📈 Grafana monitoring
 ```
 
 <img width="1031" height="721" alt="Image" src="https://github.com/user-attachments/assets/414ff89c-db9a-4712-a44f-b805702e6459" />
