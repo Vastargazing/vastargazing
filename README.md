@@ -1,6 +1,6 @@
 # 🚀 ML Platform Engineer | Building AI Infrastructure That Actually Works
 
-### Hey! 👋 I'm on a mission to build production ML platforms that developers love
+### What's up! 👋 I'm on a mission to build production ML platforms that developers love
 
 **The journey:** Started as a backend dev, fell in love with AI systems, realized my true calling is **building the infrastructure** that makes AI work at scale. Not just making models work once—making them work reliably for thousands of users, every single day.
 
