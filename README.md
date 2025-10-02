@@ -49,7 +49,8 @@ Building an ML platform isn't just about calling an API. It's about:
 
 **Why these metrics matter:** Every number represents a production challenge solved. Connection pooling? Database lock prevention. Cache hit ratio? Cost optimization. Hybrid pipeline? Platform thinking—right tool for the job.
 
-<img width="1031" height="721" alt="Platform Architecture" src="https://github.com/user-attachments/assets/414ff89c-db9a-4712-a44f-b805702e6459" />
+<img width="1706" height="852" alt="Image" src="https://github.com/user-attachments/assets/f0624b2e-7cbc-4e5f-9fe9-a3345be89f70" />
+<img width="1706" height="852" alt="Image" src="https://github.com/user-attachments/assets/5154cd1f-d149-4719-97f8-98e0a50868a1" />
 
 ### 🏗️ Technical Architecture (ML Platform Stack)
 
