@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="gmail-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#F16D62"/>
+      <stop offset="100%" stop-color="#D94236"/>
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="64" fill="url(#gmail-a)"/>
+  <path d="M30 86V43a4 4 0 0 1 6-3l28 21 28-21a4 4 0 0 1 6 3v43H87V57L64 74 41 57v29Z" fill="#FFF"/>
+</svg>

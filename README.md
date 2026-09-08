@@ -13,5 +13,5 @@
 <p align="center">
   <a href="https://t.me/vastargazing"><img src="./assets/telegram.svg" width="20" height="20" align="absmiddle" alt="" />&nbsp; Let’s talk → Telegram</a>
   &nbsp; · &nbsp;
-  <a href="mailto:vastargazing@gmail.com">✉️ Email</a>
+  <a href="mailto:vastargazing@gmail.com"><img src="./assets/gmail.svg" width="20" height="20" align="absmiddle" alt="" />&nbsp; Email</a>
 </p>
